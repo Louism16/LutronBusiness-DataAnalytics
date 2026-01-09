@@ -1,0 +1,55 @@
+import pandas as pd
+import numpy as np
+from statsmodels.miscmodels.ordinal_model import OrderedModel
+import warnings
+from sklearn.exceptions import UndefinedMetricWarning
+
+def convert_star_rating(modelData):
+	# Ignoring warnings to not clutter up the terminal
+	warnings.filterwarnings("ignore", category=UndefinedMetricWarning)
+
+	# Creating and converting the star rating into a categorical variable
+	star_type = pd.CategoricalDtype(categories=['1.0', '2.0', '3.0', '4.0', '5.0'], ordered=True)
+	modelData['Star_Rating'] = modelData['Star_Rating'].astype(str).astype(star_type).cat.codes
+
+	return modelData
+
+def split_train_test(modelData, pred_attr):
+	# Splitting finalLutron into training data and test data (80/20 split)
+	trainData = modelData.sample(frac = 0.8, random_state = 21)
+	testData = modelData.drop(trainData.index)
+
+	# Set of predictors included in the model
+	trainDataMod = trainData.dropna(subset=pred_attr)
+	testDataMod = testData.dropna(subset=pred_attr)
+
+	# Creating predictor arrays for training and test data
+	train_predictors = np.array(trainDataMod[pred_attr])
+	test_predictors = np.array(testDataMod[pred_attr])
+
+	# Setting target for training and test data
+	train_target = trainDataMod['Star_Rating']
+	test_target = testDataMod['Star_Rating']
+
+	# Returning a tuple containing two tuples
+	return ((train_predictors, test_predictors), (train_target, test_target))
+
+def train_models(pred_targ):
+	# Training the Logit Model
+	mod_log = OrderedModel(pred_targ[1][0], pred_targ[0][0], distr='logit')
+	res_log = mod_log.fit(method='bfgs')
+
+	# Predicting the test data from the Logit Model
+	predicted_log_test = np.array(res_log.model.predict(res_log.params, exog=pred_targ[0][1]))
+	pred_choice_log_test = predicted_log_test.argmax(1)
+
+	# Training the Probit Model
+	mod_prob = OrderedModel(pred_targ[1][0], pred_targ[0][0], distr='probit')
+	res_prob = mod_prob.fit(method='bfgs')
+
+	# Predicting the test data from the Probit Model
+	predicted_prob_test = np.array(res_prob.model.predict(res_prob.params, exog=pred_targ[0][1]))
+	pred_choice_prob_test = predicted_prob_test.argmax(1)
+
+	# Returning a tuple containing two tuples
+	return ((res_log, res_prob), (pred_choice_log_test, pred_choice_prob_test))
