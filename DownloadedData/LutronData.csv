@@ -1,0 +1,305 @@
+city,state,year,Star_Rating
+Albany,New York,2021,
+Albany,New York,2022,5.0
+Albany,New York,2023,4.0
+Albany,New York,2024,3.0
+Allentown,Pennsylvania,2021,
+Allentown,Pennsylvania,2022,2.0
+Allentown,Pennsylvania,2023,2.0
+Allentown,Pennsylvania,2024,1.0
+Ann Arbor,Michigan,2021,
+Ann Arbor,Michigan,2022,2.0
+Ann Arbor,Michigan,2023,3.0
+Ann Arbor,Michigan,2024,4.0
+Aspen,Colorado,2021,
+Aspen,Colorado,2022,3.0
+Aspen,Colorado,2023,4.0
+Aspen,Colorado,2024,2.0
+Augusta,Maine,2021,
+Augusta,Maine,2022,5.0
+Augusta,Maine,2023,2.0
+Augusta,Maine,2024,3.0
+Aurora,Colorado,2021,
+Aurora,Colorado,2022,2.0
+Aurora,Colorado,2023,2.0
+Aurora,Colorado,2024,5.0
+Bellingham,Washington,2021,
+Bellingham,Washington,2022,1.0
+Bellingham,Washington,2023,5.0
+Bellingham,Washington,2024,2.0
+Berkeley,California,2021,
+Berkeley,California,2022,3.0
+Berkeley,California,2023,2.0
+Berkeley,California,2024,2.0
+Big sky,Montana,2021,
+Big sky,Montana,2022,5.0
+Big sky,Montana,2023,3.0
+Big sky,Montana,2024,3.0
+Billings,Montana,2021,
+Billings,Montana,2022,1.0
+Billings,Montana,2023,5.0
+Billings,Montana,2024,2.0
+Birmingham,Alabama,2021,
+Birmingham,Alabama,2022,2.0
+Birmingham,Alabama,2023,4.0
+Birmingham,Alabama,2024,3.0
+Birmingham,Michigan,2021,
+Birmingham,Michigan,2022,1.0
+Birmingham,Michigan,2023,5.0
+Birmingham,Michigan,2024,1.0
+Boise,Idaho,2021,
+Boise,Idaho,2022,5.0
+Boise,Idaho,2023,4.0
+Boise,Idaho,2024,3.0
+Boulder,Colorado,2021,
+Boulder,Colorado,2022,4.0
+Boulder,Colorado,2023,2.0
+Boulder,Colorado,2024,4.0
+Carmel,Indiana,2021,
+Carmel,Indiana,2022,5.0
+Carmel,Indiana,2023,1.0
+Carmel,Indiana,2024,5.0
+Carson City,Nevada,2021,
+Carson City,Nevada,2022,3.0
+Carson City,Nevada,2023,4.0
+Carson City,Nevada,2024,4.0
+Chandler,Arizona,2021,
+Chandler,Arizona,2022,4.0
+Chandler,Arizona,2023,4.0
+Chandler,Arizona,2024,5.0
+Charlotte,North Carolina,2021,
+Charlotte,North Carolina,2022,4.0
+Charlotte,North Carolina,2023,2.0
+Charlotte,North Carolina,2024,4.0
+Charlottesville,Virginia,2021,
+Charlottesville,Virginia,2022,5.0
+Charlottesville,Virginia,2023,4.0
+Charlottesville,Virginia,2024,1.0
+Chatham,Massachusetts,2021,
+Chatham,Massachusetts,2022,1.0
+Chatham,Massachusetts,2023,4.0
+Chatham,Massachusetts,2024,5.0
+Clearwater,Florida,2021,
+Clearwater,Florida,2022,5.0
+Clearwater,Florida,2023,4.0
+Clearwater,Florida,2024,3.0
+Coeur d`Alene,Idaho,2021,
+Coeur d`Alene,Idaho,2022,5.0
+Coeur d`Alene,Idaho,2023,3.0
+Coeur d`Alene,Idaho,2024,2.0
+Colorado Springs,Colorado,2021,
+Colorado Springs,Colorado,2022,2.0
+Colorado Springs,Colorado,2023,4.0
+Colorado Springs,Colorado,2024,1.0
+Columbia,Maryland,2021,
+Columbia,Maryland,2023,1.0
+Columbia,Maryland,2024,5.0
+Columbia,South Carolina,2021,
+Columbia,South Carolina,2022,3.0
+Columbia,South Carolina,2023,5.0
+Columbia,South Carolina,2024,4.0
+Cupertino,California,2021,
+Cupertino,California,2022,4.0
+Cupertino,California,2023,3.0
+Cupertino,California,2024,3.0
+Delray Beach,Florida,2021,
+Delray Beach,Florida,2022,5.0
+Delray Beach,Florida,2023,5.0
+Delray Beach,Florida,2024,1.0
+Des Moines,Iowa,2021,
+Des Moines,Iowa,2022,5.0
+Des Moines,Iowa,2023,2.0
+Des Moines,Iowa,2024,2.0
+Detroit,Michigan,2021,
+Detroit,Michigan,2022,5.0
+Detroit,Michigan,2023,2.0
+Detroit,Michigan,2024,4.0
+Eagle River,Wisconsin,2021,
+Eagle River,Wisconsin,2023,2.0
+Eagle River,Wisconsin,2024,4.0
+Grand Rapids,Michigan,2021,
+Grand Rapids,Michigan,2022,3.0
+Grand Rapids,Michigan,2023,2.0
+Grand Rapids,Michigan,2024,2.0
+Greenville,South Carolina,2021,
+Greenville,South Carolina,2022,4.0
+Greenville,South Carolina,2023,3.0
+Greenville,South Carolina,2024,2.0
+Hobe Sound,Florida,2021,
+Hobe Sound,Florida,2022,2.0
+Hobe Sound,Florida,2023,3.0
+Hobe Sound,Florida,2024,5.0
+Incline Village,Nevada,2021,
+Incline Village,Nevada,2022,2.0
+Incline Village,Nevada,2023,5.0
+Incline Village,Nevada,2024,1.0
+Jackson Hole,Wyoming,2021,
+Jackson Hole,Wyoming,2022,2.0
+Jackson Hole,Wyoming,2023,2.0
+Jackson Hole,Wyoming,2024,2.0
+La Crosse,Wisconsin,2021,
+La Crosse,Wisconsin,2022,2.0
+La Crosse,Wisconsin,2023,2.0
+La Crosse,Wisconsin,2024,5.0
+Lafayette,California,2021,
+Lafayette,California,2022,2.0
+Lafayette,California,2023,2.0
+Lafayette,California,2024,4.0
+Lafayette,Louisiana,2021,
+Lafayette,Louisiana,2022,5.0
+Lafayette,Louisiana,2023,4.0
+Lafayette,Louisiana,2024,1.0
+Lake Geneva,Wisconsin,2021,
+Lake Geneva,Wisconsin,2023,5.0
+Lake Geneva,Wisconsin,2024,1.0
+Lakewood,Colorado,2021,
+Lakewood,Colorado,2022,2.0
+Lakewood,Colorado,2023,5.0
+Lakewood,Colorado,2024,3.0
+Little Rock,Arkansas,2021,
+Little Rock,Arkansas,2022,5.0
+Little Rock,Arkansas,2023,4.0
+Little Rock,Arkansas,2024,1.0
+Madison,Wisconsin,2021,
+Madison,Wisconsin,2022,4.0
+Madison,Wisconsin,2023,4.0
+Madison,Wisconsin,2024,1.0
+McCall,Idaho,2021,
+McCall,Idaho,2023,4.0
+McCall,Idaho,2024,5.0
+McLean,Virginia,2021,
+McLean,Virginia,2022,5.0
+McLean,Virginia,2023,1.0
+McLean,Virginia,2024,4.0
+Memphis,Tennessee,2021,
+Memphis,Tennessee,2022,3.0
+Memphis,Tennessee,2023,5.0
+Memphis,Tennessee,2024,3.0
+Miami Beach,Florida,2021,
+Miami Beach,Florida,2022,1.0
+Miami Beach,Florida,2023,5.0
+Miami Beach,Florida,2024,1.0
+Montpelier,Vermont,2021,
+Montpelier,Vermont,2022,5.0
+Montpelier,Vermont,2023,2.0
+Montpelier,Vermont,2024,4.0
+Napa,California,2021,
+Napa,California,2022,2.0
+Napa,California,2023,2.0
+Napa,California,2024,4.0
+New Canaan,Connecticut,2021,
+New Canaan,Connecticut,2022,2.0
+New Canaan,Connecticut,2023,4.0
+New Canaan,Connecticut,2024,3.0
+New Orleans,Louisiana,2021,
+New Orleans,Louisiana,2022,3.0
+New Orleans,Louisiana,2023,3.0
+New Orleans,Louisiana,2024,4.0
+Newark,New Jersey,2021,
+Newark,New Jersey,2022,3.0
+Newark,New Jersey,2023,3.0
+Newark,New Jersey,2024,2.0
+Oklahoma City,Oklahoma,2021,
+Oklahoma City,Oklahoma,2022,3.0
+Oklahoma City,Oklahoma,2023,3.0
+Oklahoma City,Oklahoma,2024,2.0
+PARK CITY,Utah,2021,
+PARK CITY,Utah,2022,4.0
+PARK CITY,Utah,2023,5.0
+PARK CITY,Utah,2024,1.0
+Palm Beach,Florida,2021,
+Palm Beach,Florida,2022,3.0
+Palm Beach,Florida,2023,4.0
+Palm Beach,Florida,2024,4.0
+Palm Desert,California,2021,
+Palm Desert,California,2022,1.0
+Palm Desert,California,2023,3.0
+Palm Desert,California,2024,3.0
+Paterson,New Jersey,2021,
+Paterson,New Jersey,2022,5.0
+Paterson,New Jersey,2023,4.0
+Paterson,New Jersey,2024,3.0
+Pinehurst,North Carolina,2021,
+Pinehurst,North Carolina,2022,1.0
+Pinehurst,North Carolina,2023,4.0
+Pinehurst,North Carolina,2024,5.0
+Providence,Rhode Island,2021,
+Providence,Rhode Island,2022,4.0
+Providence,Rhode Island,2023,4.0
+Providence,Rhode Island,2024,5.0
+Rancho Mirage,California,2021,
+Rancho Mirage,California,2022,1.0
+Rancho Mirage,California,2023,4.0
+Rancho Mirage,California,2024,5.0
+Red Bank,New Jersey,2021,
+Red Bank,New Jersey,2023,1.0
+Red Bank,New Jersey,2024,5.0
+Richmond,Virginia,2021,
+Richmond,Virginia,2022,3.0
+Richmond,Virginia,2023,2.0
+Richmond,Virginia,2024,4.0
+Rochester,New York,2021,
+Rochester,New York,2022,3.0
+Rochester,New York,2023,4.0
+Rochester,New York,2024,1.0
+Salinas,California,2021,
+Salinas,California,2022,4.0
+Salinas,California,2023,4.0
+Salinas,California,2024,3.0
+San Carlos,California,2021,
+San Carlos,California,2023,5.0
+San Carlos,California,2024,5.0
+San Jose,California,2021,
+San Jose,California,2022,4.0
+San Jose,California,2023,3.0
+San Jose,California,2024,3.0
+Santa Rosa,California,2021,
+Santa Rosa,California,2022,3.0
+Santa Rosa,California,2023,3.0
+Santa Rosa,California,2024,3.0
+Sarasota,Florida,2021,
+Sarasota,Florida,2022,4.0
+Sarasota,Florida,2023,3.0
+Sarasota,Florida,2024,4.0
+Savannah,Georgia,2021,
+Savannah,Georgia,2023,1.0
+Savannah,Georgia,2024,2.0
+Spokane,Washington,2021,
+Spokane,Washington,2022,2.0
+Spokane,Washington,2023,4.0
+Spokane,Washington,2024,4.0
+St. Paul,Minnesota,2021,
+St. Paul,Minnesota,2022,5.0
+St. Paul,Minnesota,2023,2.0
+St. Paul,Minnesota,2024,2.0
+Sun Valley,Idaho,2021,
+Sun Valley,Idaho,2022,1.0
+Sun Valley,Idaho,2023,4.0
+Sun Valley,Idaho,2024,1.0
+Tahoe City,California,2021,
+Tahoe City,California,2022,2.0
+Tahoe City,California,2023,2.0
+Tahoe City,California,2024,5.0
+Topeka,Kansas,2021,
+Topeka,Kansas,2022,1.0
+Topeka,Kansas,2023,1.0
+Topeka,Kansas,2024,5.0
+Vail,Colorado,2021,
+Vail,Colorado,2022,3.0
+Vail,Colorado,2023,3.0
+Vail,Colorado,2024,3.0
+Virginia Beach,Virginia,2021,
+Virginia Beach,Virginia,2022,5.0
+Virginia Beach,Virginia,2023,2.0
+Virginia Beach,Virginia,2024,2.0
+Waterbury,Connecticut,2021,
+Waterbury,Connecticut,2023,5.0
+Waterbury,Connecticut,2024,1.0
+Wichita,Kansas,2021,
+Wichita,Kansas,2022,2.0
+Wichita,Kansas,2023,3.0
+Wichita,Kansas,2024,4.0
+Winston-Salem,North Carolina,2021,
+Winston-Salem,North Carolina,2022,1.0
+Winston-Salem,North Carolina,2023,4.0
+Winston-Salem,North Carolina,2024,2.0
